@@ -1,6 +1,7 @@
 # Article API
 
 API RESTful yang komprehensif dibangun dengan Laravel 12 untuk mengelola artikel dengan autentikasi JWT.
+Live Endpoint : https://api.ainuns.my.id/article/
 
 ## 🚀 Features
 
